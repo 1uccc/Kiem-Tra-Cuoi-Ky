@@ -1,0 +1,33 @@
+﻿@model QuanLyCongViec.Models.TaiKhoan
+
+@{
+    ViewData["Title"] = "Sửa Tài Khoản";
+}
+
+<h1>Sửa Tài Khoản</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="MaTaiKhoan" />
+    <div class="form-group">
+        <label asp-for="TenDangNhap"></label>
+        <input asp-for="TenDangNhap" class="form-control" readonly />
+        <span asp-validation-for="TenDangNhap" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MatKhau"></label>
+        <input asp-for="MatKhau" class="form-control" />
+        <span asp-validation-for="MatKhau" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="HoTen"></label>
+        <input asp-for="HoTen" class="form-control" />
+        <span asp-validation-for="HoTen" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

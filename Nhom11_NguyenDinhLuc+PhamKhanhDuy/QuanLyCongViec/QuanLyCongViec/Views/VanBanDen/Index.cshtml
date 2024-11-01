@@ -1,0 +1,38 @@
+﻿@model IEnumerable<QuanLyCongViec.Models.VanBanDen>
+
+@{
+    ViewData["Title"] = "Danh Sách Văn Bản Đến";
+}
+
+<h2>Danh Sách Văn Bản Đến</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Số Văn Bản</th>
+            <th>Ngày Nhận</th>
+            <th>Trích Yếu</th>
+            <th>Đơn Vị Gửi</th>
+            <th>Nơi Nhận</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>@item.SoVanBan</td>
+                    <td>@item.NgayNhan.ToString("dd/MM/yyyy")</td>
+                    <td>@item.TrichYeu</td>
+                    <td>@item.DonViGui</td>
+                    <td>@item.NoiNhan</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MaVanBanDen" class="btn btn-warning">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@item.MaVanBanDen" class="btn btn-danger">Xóa</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Tạo Văn Bản Đến Mới</a>

@@ -1,0 +1,21 @@
+﻿@model QuanLyCongViec.Models.TaiKhoan
+
+@{
+    ViewData["Title"] = "Xóa tài khoản";
+}
+
+<h1>Xóa tài khoản</h1>
+
+<h4>Bạn có chắc chắn muốn xóa tài khoản này?</h4>
+<div>
+    <h5>@Model.HoTen</h5>
+    <p>Địa chỉ email: @Model.Email</p>
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="MaTaiKhoan" />
+    <div class="form-group">
+        <input type="submit" value="Xóa" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </div>
+</form>

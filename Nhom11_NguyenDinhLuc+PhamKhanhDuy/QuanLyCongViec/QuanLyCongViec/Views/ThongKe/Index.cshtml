@@ -1,0 +1,77 @@
+﻿@model ThongKeViewModel
+
+<h2>Thống Kê Văn Bản</h2>
+
+<form asp-action="Index" method="get" class="mb-4">
+    <div class="d-flex align-items-end">
+        <label for="searchString" class="me-2">Tìm kiếm:</label>
+        <input type="text" name="searchString" class="form-control me-2" placeholder="Nhập từ khóa..." />
+        <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+    </div>
+</form>
+
+<h3>Văn Bản Đến</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Số Văn Bản</th>
+            <th>Ngày Nhận</th>
+            <th>Trích Yếu</th>
+            <th>Đơn Vị Gửi</th>
+            <th>Nơi Nhận</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.VanBanDen.Any())
+        {
+            foreach (var item in Model.VanBanDen)
+            {
+                        <tr>
+                            <td>@item.SoVanBan</td>
+                            <td>@item.NgayNhan.ToShortDateString()</td>
+                            <td>@item.TrichYeu</td>
+                            <td>@item.DonViGui</td>
+                            <td>@item.NoiNhan</td>
+                        </tr>
+            }
+        }
+        else
+        {
+                <tr>
+                    <td colspan="5" class="text-center">Không có dữ liệu văn bản đến.</td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Văn Bản Đi</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Số Văn Bản</th>
+            <th>Ngày Gửi</th>
+            <th>Trích Yếu</th>
+            <th>Đơn Vị Nhận</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.VanBanDi.Any())
+        {
+            foreach (var item in Model.VanBanDi)
+            {
+                        <tr>
+                            <td>@item.SoVanBan</td>
+                            <td>@item.NgayGui.ToShortDateString()</td>
+                            <td>@item.TrichYeu</td>
+                            <td>@item.DonViNhan</td>
+                        </tr>
+            }
+        }
+        else
+        {
+                <tr>
+                    <td colspan="4" class="text-center">Không có dữ liệu văn bản đi.</td>
+                </tr>
+        }
+    </tbody>
+</table>

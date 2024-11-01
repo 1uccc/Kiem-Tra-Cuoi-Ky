@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center login-form">
+        <h2 class="mb-4">Đăng nhập</h2>
+
+        <!-- Thông báo lỗi đăng nhập -->
+        @if (ViewData.ModelState.ContainsKey("LoginFailed"))
+        {
+            <div class="alert alert-danger">
+                @ViewData.ModelState["LoginFailed"].Errors[0].ErrorMessage
+            </div>
+        }
+
+        <form asp-controller="TaiKhoan" asp-action="Login" method="post">
+            <div class="form-group mb-3">
+                <label for="tenDangNhap">Tên đăng nhập</label>
+                <input type="text" class="form-control" id="tenDangNhap" name="tenDangNhap" required />
+            </div>
+            <div class="form-group mb-4">
+                <label for="matKhau">Mật khẩu</label>
+                <input type="password" class="form-control" id="matKhau" name="matKhau" required />
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg w-100">Đăng nhập</button>
+            <p class="mt-3">Chưa có tài khoản? <a asp-controller="TaiKhoan" asp-action="Register">Đăng ký ngay</a></p>
+        </form>
+    </div>
+</div>

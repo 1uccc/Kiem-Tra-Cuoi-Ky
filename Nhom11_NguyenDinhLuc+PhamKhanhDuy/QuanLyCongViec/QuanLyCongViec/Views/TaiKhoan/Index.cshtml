@@ -1,0 +1,39 @@
+﻿@model QuanLyCongViec.Models.TaiKhoan
+
+@{
+    ViewData["Title"] = "Trung tâm tài khoản";
+}
+
+<h1>Trung tâm tài khoản</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên đăng nhập</th>
+            <th>Họ tên</th>
+            <th>Email</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => model.TenDangNhap)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Email)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@Model.MaTaiKhoan">Sửa</a> |
+                <a asp-action="Delete" asp-route-id="@Model.MaTaiKhoan">Xóa</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<p>
+    <a asp-controller="Home" asp-action="Index">Quay lại trang chính</a>
+</p>

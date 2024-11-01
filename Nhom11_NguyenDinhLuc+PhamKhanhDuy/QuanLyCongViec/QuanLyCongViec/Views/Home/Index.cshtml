@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<div class="d-flex flex-column justify-content-center align-items-center vh-100">
+    <div class="text-center">
+        <h1 class="display-4 mb-4">Chào mừng đến với hệ thống quản lý công việc</h1>
+        <p class="lead mb-4">Giải pháp tốt nhất để quản lý công việc của bạn một cách hiệu quả và tiện lợi.</p>
+
+        @if (Context.Session.GetString("UserId") == null)
+        {
+                <a asp-controller="TaiKhoan" asp-action="Login" class="btn btn-primary btn-lg">Đăng nhập</a>
+        }
+        else
+        {
+                <p>Bạn đã đăng nhập thành công!</p>
+        }
+    </div>
+</div>
