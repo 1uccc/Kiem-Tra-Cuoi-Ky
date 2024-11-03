@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj",
         "projectName": "QuanLyCongViec",
-        "projectPath": "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\QuanLyCongViec.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc+PhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

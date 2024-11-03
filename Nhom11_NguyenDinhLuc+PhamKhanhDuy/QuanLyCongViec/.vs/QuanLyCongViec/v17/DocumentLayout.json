@@ -1,10 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\laptrinhweb\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbandi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbandi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbandi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbandi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbandi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbandi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbandi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbandi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbanden\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbanden\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbanden\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbanden\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbanden\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbanden\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\vanbanden\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\vanbanden\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\taikhoan\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\taikhoan\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\taikhoan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\taikhoan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\taikhoan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\taikhoan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\taikhoan\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\taikhoan\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\taikhoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\taikhoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\models\\vanbandi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\vanbandi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\models\\vanbanden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\vanbanden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\models\\thongkeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\thongkeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\controllers\\vanbandicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\controllers\\vanbandicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\controllers\\vanbandencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\controllers\\vanbandencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|c:\\users\\asus\\documents\\github\\kiem-tra-cuoi-ky\\nhom11_nguyendinhluc\u002Bphamkhanhduy\\quanlycongviec\\quanlycongviec\\data\\quanlycongvieccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564742C1-A2C6-4BBA-9B2E-0BBEF0E95D3E}|QuanLyCongViec\\QuanLyCongViec.csproj|solutionrelative:quanlycongviec\\data\\quanlycongvieccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +144,390 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\ThongKe\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\ThongKe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\ThongKe\\Index.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\ThongKe\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:29:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDi\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Create.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDi\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:29:19.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDi\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Delete.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDi\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:28:49.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDi\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Edit.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDi\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:28:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDi\\Index.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDi\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:28:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDen\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Delete.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDen\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:27:56.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDen\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Edit.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDen\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:27:42.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDen\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Create.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDen\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:27:27.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\VanBanDen\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\VanBanDen\\Index.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\VanBanDen\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:27:01.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Register.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\TaiKhoan\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Register.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\TaiKhoan\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:26:27.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\TaiKhoan\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Delete.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\TaiKhoan\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:26:13.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\TaiKhoan\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Edit.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\TaiKhoan\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:25:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Login.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\TaiKhoan\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Login.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\TaiKhoan\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:25:36.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\TaiKhoan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\TaiKhoan\\Index.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\TaiKhoan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:25:15.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Home\\Info.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\Home\\Info.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Home\\Info.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\Home\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:23:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VanBanDi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\VanBanDi.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\VanBanDi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\VanBanDi.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\VanBanDi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:22:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VanBanDen.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\VanBanDen.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\VanBanDen.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\VanBanDen.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\VanBanDen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:22:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThongKeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\ThongKeViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\ThongKeViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\ThongKeViewModel.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\ThongKeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:22:17.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\TaiKhoan.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:22:00.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Controllers\\ThongKeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Controllers\\ThongKeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:21:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T14:41:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VanBanDiController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\VanBanDiController.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Controllers\\VanBanDiController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\VanBanDiController.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Controllers\\VanBanDiController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAcwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:20:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\LapTrinhWeb\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "QuanLyCongViec\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T11:22:08.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VanBanDenController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\VanBanDenController.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Controllers\\VanBanDenController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\VanBanDenController.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Controllers\\VanBanDenController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:19:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAADwv9cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:19:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:16:15.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Program.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:42:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "QuanLyCongViec\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T14:41:01.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:35:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QuanLyCongViecContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Data\\QuanLyCongViecContext.cs",
+              "RelativeDocumentMoniker": "QuanLyCongViec\\Data\\QuanLyCongViecContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Kiem-Tra-Cuoi-Ky\\Nhom11_NguyenDinhLuc\u002BPhamKhanhDuy\\QuanLyCongViec\\QuanLyCongViec\\Data\\QuanLyCongViecContext.cs",
+              "RelativeToolTip": "QuanLyCongViec\\Data\\QuanLyCongViecContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:33:29.837Z",
               "EditorCaption": ""
             }
           ]
